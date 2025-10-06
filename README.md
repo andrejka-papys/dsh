@@ -59,7 +59,7 @@ pip install pyreadline
 bash
 
 # Клонируйте репозиторий
-git clone <repository-url>
+git clone (https://github.com/andrejka-papys/dsh.git)
 cd DoyarkaTerminal
 
 # Запустите терминал
